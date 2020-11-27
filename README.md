@@ -16,3 +16,4 @@
   * put the weight.h5 file to /configs/svhn
 * Run digits detection through the following command.
   * `python pred.py -c configs/svhn.json -i test_data/`
+* The megumin.json will be the output file.
