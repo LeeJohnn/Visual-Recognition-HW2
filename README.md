@@ -13,6 +13,6 @@
 
 ## Digits Detection
 * The pretained weight can download in https://drive.google.com/drive/folders/1c3ikKWNgaMtPHUWQf54taRUgyJhcyX1g
- * put the weight.h5 file to /configs/svhn
+  * put the weight.h5 file to /configs/svhn
 * Run digits detection through the following command.
   * `python pred.py -c configs/svhn.json -i test_data/`
