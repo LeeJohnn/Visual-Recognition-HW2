@@ -14,4 +14,4 @@
 ## Digits Detection
 * The pretained weight is in /configs/svhn/weight.h5
 * Run digits detection through the following command.
-`python pred.py -c configs/svhn.json -i test_data/`
+  * `python pred.py -c configs/svhn.json -i test_data/`
